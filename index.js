@@ -6,10 +6,10 @@
  ██║░░██║░░░██║░░░██╔╝╚██╗          
  ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
   GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+  DISCORD SERVER : https://discord.gg/AtfGxEJ4YT
+  YOUTUBE : https://www.youtube.com/@beamazed
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by Be Amazed
  * **********************************************
  */
 
@@ -28,15 +28,15 @@ const client = new Client({
 const app = express();
 const port = 3000;
 app.get('/', (req, res) => {
-  res.send('YaY Your Bot Status Changed✨');
+  res.send('W Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By RTX`);
+  console.log(`🔗 Listening to STAY AMAZED: http://localhost:${port}`);
+  console.log(`🔗 Powered By AMAZEDSTUDIOS`);
 });
 
 
-const statusMessages = ["Watching Netflix","Listening to Spotify","Playing GTA VI"];
+const statusMessages = ["Watching Be amazed","Listening to SIGMA PHONK","Playing Bedwars With unsupported"];
 
 
 let currentIndex = 0;
